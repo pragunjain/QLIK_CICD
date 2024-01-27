@@ -1,0 +1,199 @@
+///$tab Main
+SET ThousandSep=',';
+SET DecimalSep='.';
+SET MoneyThousandSep=',';
+SET MoneyDecimalSep='.';
+SET MoneyFormat='$ ###0.00;-$ ###0.00';
+SET TimeFormat='h:mm:ss TT';
+SET DateFormat='M/D/YYYY';
+SET TimestampFormat='M/D/YYYY h:mm:ss[.fff] TT';
+SET FirstWeekDay=6;
+SET BrokenWeeks=1;
+SET ReferenceDay=0;
+SET FirstMonthOfYear=1;
+SET CollationLocale='en-US';
+SET CreateSearchIndexOnReload=1;
+SET MonthNames='Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec';
+SET LongMonthNames='January;February;March;April;May;June;July;August;September;October;November;December';
+SET DayNames='Mon;Tue;Wed;Thu;Fri;Sat;Sun';
+SET LongDayNames='Monday;Tuesday;Wednesday;Thursday;Friday;Saturday;Sunday';
+SET NumericalAbbreviation='3:k;6:M;9:G;12:T;15:P;18:E;21:Z;24:Y;-3:m;-6:μ;-9:n;-12:p;-15:f;-18:a;-21:z;-24:y';
+///$tab Section 7
+///$tab Section 6
+load * Inline [
+Id,Project,Demand,Forecast
+1,101,100,110
+2,101,120,100
+3,102,215,210
+4,102,240,250
+];
+///$tab Section 5
+DC:
+LOAD
+    "Lane ID",
+    "OD Pair",
+    "Destination City",
+    "Destination State",
+    "Destination Zip",
+    Lat,
+    -1*Long as Long
+FROM [lib://DataFiles/Customer X Data (1).xlsx]
+(ooxml, embedded labels, table is [CA Calcon]);
+
+
+STORES:
+LOAD
+    "Store No.",
+    Name,
+    Latitude,
+    Longitude
+FROM [lib://DataFiles/Customer X Store Information.csv]
+(txt, codepage is 28591, embedded labels, delimiter is ',', msq);
+
+New:
+Load*Inline
+[
+ID,NewLat,NewLong
+1,33.7542 ,-118.2165
+];
+
+
+exit Script
+///$tab Section 4
+///$tab Section 3
+// Sales:
+// Load*Inline
+// [
+// PID,Sales
+// 1,100
+// 2,300
+// 3,400
+// 4,500
+
+// ];
+
+// exit script
+///$tab Section
+circle_segments: Load (RecNo()-1)/100*2*pi() as r, RecNo()/100 as rp autogenerate 100;
+
+Skills:
+load Skill,Level/10 as Level,Color Inline
+[
+Skill,Level,Color,
+Data Visualisation,8,#4ECDC4
+SQL,7,#477998
+Data Modelling,8,#FFE66D
+Business Analysis,7,#FF6B6B
+];
+
+Tools:
+load Tools,ToolLevel/10 as ToolLevel,ToolColor Inline
+[
+Tools,ToolLevel,ToolColor,
+Qlik,9,#02b80e
+Power BI,8,#F2C80F
+Tableau,6,#477998
+];
+
+
+
+Language:
+Load*Inline
+[
+Language,LanLevel,ttt
+English,1,1
+English,2,1
+English,3,1
+English,4,1
+Hindi,1,2
+Hindi,2,2
+Hindi,3,2
+Hindi,4,2
+Hindi,5,2
+];
+///$tab Gantt
+// Test data for Gantt
+
+Gantt:
+load * Inline [
+gid,Project, Indication Description
+1,10th Class,Test Desc 10th
+2,12th Class, Test Desc 12th
+3,College,test Desc colg
+4,Org1, org1 desc
+5,Org2,	Org2 desc
+];
+
+Milestones:
+load * Inline [
+gid,mid,Milestone,MilestoneDate
+1,1.1,Start,1/1/2011
+1,1.2,End,1/1/2012
+2,2.1,Start,2/1/2012
+2,2.2,End,1/1/2013
+3,3.1,Start,2/1/2014
+3,3.2,End,1/1/2018
+4,4.1,Start,2/1/2018
+4,4.2,End,1/1/2020
+5,5.1,Start,6/1/2020
+5,5.2,End,4/1/2023
+];
+Phases:
+load * Inline [
+gid,pid,Phase,PhaseStart,PhaseEnd
+1,1.1,Sub,1/1/2011,1/1/2012
+2,2.1,Sub,2/1/2012,1/1/2013
+3,3.1,Sub,2/1/2014,1/1/2018
+4,4.1,Sub,2/1/2018,1/1/2020
+5,5.1,Sub,6/1/2020,4/1/2023
+];
+
+let vProjHorizDist=400;
+let vProjVertDist=390;
+let vProjLabelDist=100;
+let vTaskLabelDist=50;
+exit script
+///$tab Section 2
+prod:
+load*inline
+[
+PID,PName,Pname2
+101,4plex,4plex
+102,COVID,COVID
+103,System,System
+101,4plex,GrandTotal
+102,COVID,GrandTotal
+103,System,GrandTotal
+101,4plex,Commercial
+102,COVID,Commercial
+103,System,Commercial
+];
+
+Cust:
+load*inline
+[
+CID,CName,CName2
+11,NA,NA
+12,EURO,EURO
+13,HBDC,HBDC
+11,NA,GLOBAL
+12,EURO,GLOBAL
+13,HBDC,GLOBAL
+];
+
+Fact:
+load*Inline
+[
+PID,CID,sales
+101,11,1000
+101,12,2010
+101,13,2302
+102,11,2222
+102,12,3333
+102,13,2000
+103,11,3999
+103,12,9000
+103,13,9002
+];
+
+exit script;
