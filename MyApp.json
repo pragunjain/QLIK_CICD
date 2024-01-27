@@ -1,25 +1,20 @@
 
 SHEETS
-{"qInfo":{"qId":"686e489e-810c-4aa6-b624-a82567d02a7c","qType":"sheet"},"qMeta":{"title":"My new sheet (2)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"686e489e-810c-4aa6-b624-a82567d02a7c","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-06-19T07:03:17.445Z","modifiedDate":"2024-01-27T08:09:31.528Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"686e489e-810c-4aa6-b624-a82567d02a7c","qType":"sheet"},"qMeta":{"title":"My new sheet (2)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"686e489e-810c-4aa6-b624-a82567d02a7c","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-06-19T07:03:17.445Z","modifiedDate":"2024-01-27T08:16:09.379Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"f802cc81-e11c-4784-be32-18de71c8e7e7","qType":"sheet"},"qMeta":{"title":"Resume","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"f802cc81-e11c-4784-be32-18de71c8e7e7","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-04-19T07:43:45.499Z","modifiedDate":"2023-10-03T06:20:17.685Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"1f1b84de-21c1-436b-a93a-ec3eb28d140d","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"1f1b84de-21c1-436b-a93a-ec3eb28d140d","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-05-22T16:32:02.726Z","modifiedDate":"2023-06-15T10:08:51.086Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
+{"qInfo":{"qId":"a2a25667-2832-462a-9da3-4f5f863e1372","qType":"sheet"},"qMeta":{"title":"My new sheet (1)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"a2a25667-2832-462a-9da3-4f5f863e1372","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-04-19T10:30:26.878Z","modifiedDate":"2023-04-19T10:30:26.878Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
 {"qInfo":{"qId":"79050845-baa1-4be2-8495-64b4d99694c0","qType":"sheet"},"qMeta":{"title":"My new sheet (3)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"79050845-baa1-4be2-8495-64b4d99694c0","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2024-01-25T12:12:18.907Z","modifiedDate":"2024-01-25T12:12:18.907Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
 {"qInfo":{"qId":"86751177-7112-49ee-a0dc-7f0bfada7732","qType":"sheet"},"qMeta":{"title":"My new sheet (4)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"86751177-7112-49ee-a0dc-7f0bfada7732","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2024-01-25T12:12:18.908Z","modifiedDate":"2024-01-25T12:12:18.908Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
 {"qInfo":{"qId":"cgwTgv","qType":"sheet"},"qMeta":{"title":"My new sheet (7)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"cgwTgv","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2024-01-25T11:15:21.239Z","modifiedDate":"2024-01-25T11:15:21.239Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
 {"qInfo":{"qId":"0b1fa303-099e-4ae9-9d30-9c43f7203bbc","qType":"sheet"},"qMeta":{"title":"My new sheet (4)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"0b1fa303-099e-4ae9-9d30-9c43f7203bbc","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2024-01-25T09:50:01.094Z","modifiedDate":"2024-01-25T09:50:01.094Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
 {"qInfo":{"qId":"ushVy","qType":"sheet"},"qMeta":{"title":"My new sheet (6)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"ushVy","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2024-01-25T09:48:50.324Z","modifiedDate":"2024-01-25T09:48:50.324Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
 {"qInfo":{"qId":"4efd9617-2eff-4647-96e8-c498bec2d7b6","qType":"sheet"},"qMeta":{"title":"My new sheet (5)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"4efd9617-2eff-4647-96e8-c498bec2d7b6","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2024-01-16T11:05:19.013Z","modifiedDate":"2024-01-16T11:20:42.222Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
-{"qInfo":{"qId":"f802cc81-e11c-4784-be32-18de71c8e7e7","qType":"sheet"},"qMeta":{"title":"Resume","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"f802cc81-e11c-4784-be32-18de71c8e7e7","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-04-19T07:43:45.499Z","modifiedDate":"2023-10-03T06:20:17.685Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
-{"qInfo":{"qId":"1f1b84de-21c1-436b-a93a-ec3eb28d140d","qType":"sheet"},"qMeta":{"title":"My new sheet","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"1f1b84de-21c1-436b-a93a-ec3eb28d140d","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-05-22T16:32:02.726Z","modifiedDate":"2023-06-15T10:08:51.086Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
-{"qInfo":{"qId":"a2a25667-2832-462a-9da3-4f5f863e1372","qType":"sheet"},"qMeta":{"title":"My new sheet (1)","description":"","_resourcetype":"app.object","_objecttype":"sheet","id":"a2a25667-2832-462a-9da3-4f5f863e1372","approved":false,"published":false,"owner":"auth0|a08D000001MGVHaIAP","ownerId":"jwkYlFP1fmuFIb4uFg2x0KYgDQznhcBv","createdDate":"2023-04-19T10:30:26.878Z","modifiedDate":"2023-04-19T10:30:26.878Z","privileges":["read","update","delete","publish","change_owner"]},"qData":[]}
 
 OBJECTS ON SHEETS
 {"bounds":{"y":0,"x":0,"width":58.333333333333336,"height":100},"col":0,"colspan":14,"name":"fKhyP","row":0,"rowspan":12,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"table"}
 {"name":"phWs","type":"pivot-table","col":14,"row":0,"colspan":10,"rowspan":6,"bounds":{"y":0,"x":58.333333333333336,"width":41.66666666666667,"height":50}}
-{"name":"amJtxB","type":"kpi","col":17,"row":6,"colspan":7,"rowspan":4,"bounds":{"y":50,"x":70.83333333333334,"width":29.166666666666668,"height":33.33333333333333}}
-{"name":"RmQNhkQ","type":"table","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
-{"bounds":{"x":0,"y":0,"width":100,"height":100},"col":0,"colspan":24,"name":"gtsMxJ","row":0,"rowspan":12,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"map"}
-{"bounds":{"x":0,"y":0,"width":100,"height":100},"col":0,"colspan":24,"name":"gtsMxJ","row":0,"rowspan":12,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"map"}
-{"name":"GsmJqt","type":"filterpane","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
-{"name":"EHDJsEf","type":"table","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
+{"name":"amJtxB","type":"kpi","col":15,"row":6,"colspan":5,"rowspan":5,"bounds":{"y":50,"x":62.5,"width":20.833333333333336,"height":41.66666666666667}}
 {"bounds":{"y":9.090909090909092,"x":20.833333333333336,"width":25,"height":63.63636363636363},"col":5,"colspan":6,"name":"dLxXKr","row":1,"rowspan":7,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"map"}
 {"name":"qDMFk","type":"map","col":5,"row":9,"colspan":6,"rowspan":2,"bounds":{"y":81.81818181818183,"x":20.833333333333336,"width":25,"height":18.181818181818183}}
 {"name":"mKWEn","type":"text-image","col":0,"row":0,"colspan":4,"rowspan":3,"bounds":{"y":0,"x":0,"width":16.666666666666664,"height":27.27272727272727}}
@@ -50,6 +45,11 @@ OBJECTS ON SHEETS
 {"name":"f7d13c9f-792f-4ee2-98cd-09ade166594a","type":"map","col":16,"row":0,"colspan":4,"rowspan":4,"bounds":{"y":0,"x":66.66666666666666,"width":16.666666666666664,"height":36.36363636363637}}
 {"name":"76ed342e-067e-4333-af64-6148cb27cb2a","type":"map","col":4,"row":0,"colspan":1,"rowspan":11,"bounds":{"y":0,"x":16.666666666666664,"width":4.166666666666666,"height":100}}
 {"name":"b5641c03-888c-476a-9ec7-64dc3f3de7a2","type":"map","col":11,"row":0,"colspan":1,"rowspan":11,"bounds":{"y":0,"x":45.83333333333333,"width":4.166666666666666,"height":100}}
+{"name":"RmQNhkQ","type":"table","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
+{"bounds":{"x":0,"y":0,"width":100,"height":100},"col":0,"colspan":24,"name":"gtsMxJ","row":0,"rowspan":12,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"map"}
+{"bounds":{"x":0,"y":0,"width":100,"height":100},"col":0,"colspan":24,"name":"gtsMxJ","row":0,"rowspan":12,"smartGrid":{"rowIdx":0,"itemIdx":0,"item":{"width":1}},"type":"map"}
+{"name":"GsmJqt","type":"filterpane","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
+{"name":"EHDJsEf","type":"table","col":0,"row":0,"colspan":12,"rowspan":6,"bounds":{"y":0,"x":0,"width":50,"height":50}}
 
 DIMENSIONS
 
@@ -62,27 +62,3 @@ VARIABLES
 {"qName":"vProjLabelDist","qDefinition":"100","qMeta":{"privileges":["read","update","delete"]},"qInfo":{"qId":"32c72856-91c0-4689-a89e-aff55b90e818","qType":"variable"},"qData":[]}
 
 FIELDS
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Field","qCardinal":18,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Table","qCardinal":4,"qTags":["$key","$hidden","$system","$ascii","$text"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Rows","qCardinal":4,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Fields","qCardinal":3,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$FieldNo","qCardinal":7,"qTags":["$hidden","$system","$numeric","$integer"],"qSrcTables":[]}
-{"qIsHidden":true,"qIsSystem":true,"qName":"$Info","qCardinal":1,"qTags":["$hidden","$system","$ascii","$text"],"qSrcTables":[]}
-{"qName":"Id","qCardinal":4,"qTags":["$numeric","$integer"],"qSrcTables":["INLFED"]}
-{"qName":"Project","qCardinal":2,"qTags":["$numeric","$integer"],"qSrcTables":["INLFED"]}
-{"qName":"Demand","qCardinal":4,"qTags":["$numeric","$integer"],"qSrcTables":["INLFED"]}
-{"qName":"Forecast","qCardinal":4,"qTags":["$numeric","$integer"],"qSrcTables":["INLFED"]}
-{"qName":"Lane ID","qCardinal":26,"qTags":["$numeric","$integer"],"qSrcTables":["DC"]}
-{"qName":"OD Pair","qCardinal":26,"qTags":["$ascii","$text"],"qSrcTables":["DC"]}
-{"qName":"Destination City","qCardinal":26,"qTags":["$ascii","$text"],"qSrcTables":["DC"]}
-{"qName":"Destination State","qCardinal":20,"qTags":["$ascii","$text"],"qSrcTables":["DC"]}
-{"qName":"Destination Zip","qCardinal":26,"qTags":["$numeric","$integer"],"qSrcTables":["DC"]}
-{"qName":"Lat","qCardinal":26,"qTags":["$numeric"],"qSrcTables":["DC"]}
-{"qName":"Long","qCardinal":26,"qTags":["$numeric"],"qSrcTables":["DC"]}
-{"qName":"Store No.","qCardinal":2172,"qTags":["$numeric","$integer"],"qSrcTables":["STORES"]}
-{"qName":"Name","qCardinal":1499,"qTags":["$ascii","$text"],"qSrcTables":["STORES"]}
-{"qName":"Latitude","qCardinal":2171,"qTags":["$numeric"],"qSrcTables":["STORES"]}
-{"qName":"Longitude","qCardinal":2171,"qTags":["$numeric"],"qSrcTables":["STORES"]}
-{"qName":"ID","qCardinal":1,"qTags":["$numeric","$integer"],"qSrcTables":["New"]}
-{"qName":"NewLat","qCardinal":1,"qTags":["$numeric"],"qSrcTables":["New"]}
-{"qName":"NewLong","qCardinal":1,"qTags":["$numeric"],"qSrcTables":["New"]}
